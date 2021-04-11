@@ -1,0 +1,20 @@
+main.pbi: \
+  C:\Users\denis\OneDrive\Документы\IAR\STM32course\EXTI_v2\Libraries\plib\stm32f0xx_ll_cortex.h \
+  C:\Users\denis\OneDrive\Документы\IAR\STM32course\EXTI_v2\Libraries\plib\stm32f0xx_ll_utils.h \
+  C:\Users\denis\OneDrive\Документы\IAR\STM32course\EXTI_v2\Libraries\plib\stm32f0xx_ll_exti.h \
+  C:\Users\denis\OneDrive\Документы\IAR\STM32course\EXTI_v2\Libraries\plib\stm32f0xx_ll_gpio.h \
+  C:\Users\denis\OneDrive\Документы\IAR\STM32course\EXTI_v2\Libraries\plib\stm32f0xx_ll_bus.h \
+  C:\Users\denis\OneDrive\Документы\IAR\STM32course\EXTI_v2\Libraries\plib\stm32f0xx_ll_system.h \
+  C:\Users\denis\OneDrive\Документы\IAR\STM32course\EXTI_v2\Libraries\core\system_stm32f0xx.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\iccarm_builtin.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\cmsis_iar.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdint.h \
+  C:\Users\denis\OneDrive\Документы\IAR\STM32course\EXTI_v2\Libraries\core\core_cm0.h \
+  C:\Users\denis\OneDrive\Документы\IAR\STM32course\EXTI_v2\Libraries\core\stm32f051x8.h \
+  C:\Users\denis\OneDrive\Документы\IAR\STM32course\EXTI_v2\Libraries\core\stm32f0xx.h \
+  C:\Users\denis\OneDrive\Документы\IAR\STM32course\EXTI_v2\Libraries\plib\stm32f0xx_ll_rcc.h \
+  C:\Users\denis\OneDrive\Документы\IAR\STM32course\EXTI_v2\main.c

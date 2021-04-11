@@ -5,6 +5,7 @@
 #include "stm32f0xx_ll_exti.h"
 #include "stm32f0xx_ll_utils.h"
 #include "stm32f0xx_ll_cortex.h"
+#include "system_stm32f0xx.h"
 
 /**
   * System Clock Configuration
